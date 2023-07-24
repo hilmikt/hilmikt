@@ -21,6 +21,14 @@
   <img src="https://komarev.com/ghpvc/?username=hilmikt&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### 👨‍💻: About Me : I am a Full Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 <!--
 **hilmikt/hilmikt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
