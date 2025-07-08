@@ -32,7 +32,7 @@
 - :telescope: I’m currently working on blockchain-based projects and building smart contracts with Solidity.
 
 - :seedling: Exploring Web3 ecosystems, tokenomics, DAOs, and decentralized applications.
-- 
+  
 - :zap: In my free time, I contribute to crypto communities, study token protocols, and sharpen my Solidity skills.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilmi-kt/)
@@ -40,8 +40,6 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
