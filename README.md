@@ -33,8 +33,6 @@
 
 - :seedling: Exploring Web3 ecosystems, tokenomics, DAOs, and decentralized applications.
   
-- :zap: In my free time, I contribute to crypto communities, study token protocols, and sharpen my Solidity skills.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilmi-kt/)
 
 ---
