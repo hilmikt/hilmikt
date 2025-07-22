@@ -61,6 +61,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hilmikt&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
+</div>
+
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=hilmikt&theme=tokyonight&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)
 
