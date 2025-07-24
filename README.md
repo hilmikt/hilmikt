@@ -37,7 +37,7 @@
 
 ### 👨‍💻 About Me : I am a Blockchain Developer & Web3 Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m currently working on blockchain-based projects and building smart contracts with Solidity
+- :telescope: I’m currently working on blockchain-based projects and building smart contracts with Solidity.
 
 - :seedling: Exploring Web3 ecosystems, tokenomics, DAOs, and decentralized applications.
 
