@@ -27,14 +27,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hilmikt&theme=darkhub" alt="hilmikt" />
-  </a>
-</p>
-
----
-
 ### 👨‍💻 About Me : I am a Blockchain Developer & Web3 Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India
 
 - :telescope: I’m currently working on blockchain-based projects and building smart contracts with Solidity.
