@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/37719664?s=200&v=4" title="Foundry" alt="Foundry" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/37719664?s=200&v=4" title="Foundry" width="40" height="40"/>&nbsp;
 </div>
 
 ---
